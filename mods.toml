@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="rubymod"
+version="1.0.0"
+displayName="Ruby Ore Mod"
+# Путь к вашей иконке относительно папки src/main/resources/
+logoFile="icon.png" 
+authors="You nickname"
+description='''
+Модификация, добавляющая рубиновую руду, инструменты и броню в Minecraft 1.20.1.
+'''
